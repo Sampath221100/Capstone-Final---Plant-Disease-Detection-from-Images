@@ -83,7 +83,7 @@ This project involves the development of a comprehensive web application using *
 - **Programming Language**: Python
 - **Framework**: Streamlit for the front-end
 - **Libraries**: OpenCV, TensorFlow/Keras or PyTorch for image processing and model development
-- **Dataset**: [New Plant Diseases Dataset](https://www.kaggle.com/datasets) from Kaggle
+- **Dataset**: [New Plant Diseases Dataset](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset)
 
 ## Future Improvements
 
