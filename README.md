@@ -1,5 +1,4 @@
 # Capstone-Final-Plant-Disease-Detection-from-Images
-Here’s a sample `README.md` for your project:
 
 ---
 
