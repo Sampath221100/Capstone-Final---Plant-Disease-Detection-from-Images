@@ -91,10 +91,6 @@ This project involves the development of a comprehensive web application using *
 - Add functionality to display more details about the disease and recommended treatments.
 - Extend support for mobile applications for easier field diagnosis.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - [Kaggle](https://www.kaggle.com) for providing the New Plant Diseases Dataset.
