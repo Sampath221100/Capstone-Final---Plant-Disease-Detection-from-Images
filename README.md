@@ -1,1 +1,1 @@
-# Capstone-Final---Plant-Disease-Detection-from-Images
+# Capstone-Final-Plant-Disease-Detection-from-Images
